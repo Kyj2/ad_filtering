@@ -1,5 +1,5 @@
-# ad_filtering website
-Review Analyst Website는 광고성 블로그와 내돈내산 블로그를 실시간으로 필터링하여 각 분류의 포스팅을 요약한 뒤, 요약본 간의 의미적 유사도를 산출해 보여줍니다.
+# Ad vs Real Review Website
+Ad vs Real Review Website는 소형가전기기에 대한 네이버 광고성 블로그와 정보성 블로그를 실시간으로 필터링하여 각 분류의 포스팅을 요약한 후, 요약본 간의 의미적 유사도를 산출해 보여줍니다.
 <p align="center">
 <img width="722" alt="스크린샷 2024-08-08 16 32 29" src="https://github.com/user-attachments/assets/a663bbc4-78e3-4589-bc7d-bdf5c3127798">
 </p>

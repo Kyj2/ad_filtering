@@ -1,1 +1,16 @@
 streamlit
+urllib
+josn
+requests
+BeautifulSoup
+asyncio
+aiohttp
+time
+OpenAI
+numpy
+SentenceTransformer
+util
+sklearn
+
+
+

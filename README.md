@@ -1,8 +1,9 @@
 # Ad vs Real Review Website
 Ad vs Real Review Website는 소형가전기기에 대한 네이버 광고성 블로그와 정보성 블로그를 실시간으로 필터링하여 각 분류의 포스팅을 요약한 후, 요약본 간의 의미적 유사도를 산출해 보여줍니다.
 <p align="center">
-<img width="722" alt="스크린샷 2024-08-08 16 32 29" src="https://github.com/user-attachments/assets/a663bbc4-78e3-4589-bc7d-bdf5c3127798">
+<img width="731" alt="스크린샷 2024-08-08 16 58 24" src="https://github.com/user-attachments/assets/9486acf3-77a4-4cc3-87ee-b0787343b45f">
 </p>
+
 
 # Filtering
 검색하고 싶은 ‘소형 전자제품’을 입력하면
@@ -37,9 +38,17 @@ Naver Developers에서 제공하는 Open API가
 마지막으로 보여주는 텍스트의 유사도 또한 최종 요약본이 아닌 요약본을 합한 텍스트에서
 광고성 리뷰 요약본과 정보성 리뷰 요약본을 비교하여 텍스트의 유사도를 추출합니다.
 코사인 유사도의 분류에 따라 유사도가 70% 이상이면 아주 유사한 정도,
+<p align="center">
+<img width="716" alt="스크린샷 2024-08-08 16 33 02" src="https://github.com/user-attachments/assets/753efa25-64ef-43fd-a129-3d4818f55675">
+</p>
+
 유사도가 50% 이상이면 보통으로 유사한 정도,
+<p align="center">
+<img width="715" alt="스크린샷 2024-08-08 16 59 49" src="https://github.com/user-attachments/assets/d5899bfd-7f1f-4768-b3bf-abf1075b25b1">
+</p>
+
 유사도가 그 이하이면 낮은 유사도를 보입니다.
 <p align="center">
-<img width="716" alt="스크린샷 2024-08-08 16 33 02" src="https://github.com/user-attachments/assets/36055e3f-b5ae-44b7-b65b-cc751c999f12">
+<img width="719" alt="스크린샷 2024-08-08 17 30 50" src="https://github.com/user-attachments/assets/8a5c3add-933c-47f0-8c93-2aa3a14e22a9">  
 </p>
 
